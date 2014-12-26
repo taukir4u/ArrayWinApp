@@ -1,0 +1,17 @@
+H:\Taukir\ArrayWinApp\ArrayWinApp\bin\Debug\ArrayWinApp.exe.config
+H:\Taukir\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.csprojResolveAssemblyReference.cache
+H:\Taukir\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.Properties.Resources.resources
+H:\Taukir\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.csproj.GenerateResource.Cache
+H:\Taukir\ArrayWinApp\ArrayWinApp\bin\Debug\ArrayWinApp.exe
+H:\Taukir\ArrayWinApp\ArrayWinApp\bin\Debug\ArrayWinApp.pdb
+H:\Taukir\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.exe
+H:\Taukir\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.pdb
+H:\Taukir\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.PersonNameUI.resources
+D:\TUTORIAL\ASP.NET\ArrayWinApp\ArrayWinApp\bin\Debug\ArrayWinApp.exe.config
+D:\TUTORIAL\ASP.NET\ArrayWinApp\ArrayWinApp\bin\Debug\ArrayWinApp.exe
+D:\TUTORIAL\ASP.NET\ArrayWinApp\ArrayWinApp\bin\Debug\ArrayWinApp.pdb
+D:\TUTORIAL\ASP.NET\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.PersonNameUI.resources
+D:\TUTORIAL\ASP.NET\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.Properties.Resources.resources
+D:\TUTORIAL\ASP.NET\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.csproj.GenerateResource.Cache
+D:\TUTORIAL\ASP.NET\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.exe
+D:\TUTORIAL\ASP.NET\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.pdb
